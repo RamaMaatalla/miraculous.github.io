@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miraculous: Les Aventures de Ladybug et Chat Noir</title>
+    <style>
+        body {
+            background-color: #111;
+            color: #FF0000;
+            font-family: Arial, sans-serif;
+        }
+        h1, h2 {
+            color: #FF0000;
+            text-align: center;
+        }
+        .section {
+            border: 2px solid #FF0000;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            background-color: #222;
+        }
+        img {
+            display: block;
+            margin: 10px auto;
+            max-width: 100%;
+        }
+        .table-of-contents {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .table-of-contents a {
+            color: #FF0000;
+            text-decoration: none;
+        }
+        .table-of-contents a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Miraculous : Les Aventures de Ladybug et Chat Noir</h1>
+
+    <!-- Table des matières -->
+    <div class="table-of-contents">
+        <h2>Introduction</h2>
+        <p>Utilisez cette introduction pour accéder rapidement aux différentes sections.</p>
+        <ul>
+            <li><a href="#createur">Créateur</a></li>
+            <li><a href="#date-sortie">Date de sortie et succès international</a></li>
+            <li><a href="#personnages-principaux">Personnages principaux</a></li>
+            <li><a href="#classe">Les amis de la classe</a></li>
+            <li><a href="#mechant">L'antagoniste : Le Papillon</a></li>
+            <li><a href="#resume-saisons">Résumé des saisons</a></li>
+            <li><a href="#miraculous">Les Miraculous</a></li>
+        </ul>
+    </div>
+
+    <!-- Section sur le créateur -->
+    <div id="createur" class="section">
+        <h2>Créateur : Thomas Astruc</h2>
+        <p><strong>Thomas Astruc</strong> est le créateur et réalisateur principal de la série animée <em>Miraculous : Les Aventures de Ladybug et Chat Noir</em>...</p>
+        <img src="https://64.media.tumblr.com/72515cd7a894e281a4c1549c821b761c/574505a53cdb3532-ed/s400x600/1dd9a6aa2f28f7643df2f30c8ee8a8477eb28fff.png" alt="Photo de Thomas Astruc">
+    </div>
+
+    <!-- Section sur la date de sortie et informations générales -->
+    <div id="date-sortie" class="section">
+        <h2>Date de Sortie et Succès International</h2>
+        <p><em>Miraculous : Les Aventures de Ladybug et Chat Noir<em> est une série télévisée d'animation franco-coréo-japonaise2 créée par Thomas Astruc, produite par Jérémy Zag et coproduite par Zagtoon, Method Animation, De Agostini, Toei Animation et SAMG Animation.
+
+Elle est diffusée pour la première fois en Corée du Sud le 1er septembre 2015 sur la chaîne EBS et, en France, le 19 octobre 2015 sur la chaîne TF1 au sein de l'émission jeunesse TFOU et rediffusée à partir d'avril 2017 sur Disney Channel et aussi diffusée depuis peu en Suisse sur RTS. Aux États-Unis, elle est diffusée sur Nickelodeon à partir du 6 décembre 2015, au Québec depuis le 9 janvier 2016 sur Télé-Québec, et au Japon, elle est diffusée sur Disney Channel à partir du 23 juillet 2018.</p>
+    </div>
+
+    <!-- Présentation des personnages principaux -->
+    <div id="personnages-principaux" class="section">
+        <h2>Personnages Principaux</h2>
+        
+        <h3>Marinette Dupain-Cheng (Ladybug)</h3>
+        <p>Marinette Dupain-Cheng est l'un des deux principaux protagonistes de la série Miraculous : Les aventures de Ladybug et Chat Noir. Elle est élève dans la classe de Caline Bustier au Collège Françoise Dupont à Paris, en France, et une créatrice de mode en herbe qui souhaite un jour avoir sa propre marque. Avec le Miraculous de la Coccinelle, lorsqu'il est habité par Tikki, Marinette se transforme en la super-héroïne Ladybug, obtenant le pouvoir de création pour arrêter Papillon et ses méchants akumatisés. Gardienne de la Miracle Box Chinoise, elle est à la tête des Super-héros de Paris. </p>
+        <img src="https://mrwallpaper.com/images/hd/ladybug-and-marinette-ttmxtwdpsnfcj7lb.jpg" alt="Photo de Marinette / Ladybug">
+
+        <h3>Adrien Agreste (Chat Noir)</h3>
+        <p>Adrien Agreste, ou Adrien Emile Gabriel Donatien Athanase Agreste[12], est l'un des deux principaux protagonistes (aux côtés de Marinette Dupain-Cheng) de "Miraculous : Les aventures de Ladybug et Chat Noir". Fils de Gabriel Agreste et d'Émilie Agreste, il a été élève dans la classe de Mme Bustier au Collège Françoise Dupont, ainsi que mannequin adolescent et visage de la marque de son père. Commandant en second des Super-héros de Paris, il est l'actuel détenteur du Miraculous du Chat Noir qui, lorsqu'il est habité par Plagg, lui permet de se transformer en Chat Noir, un super-héros sur le thème du chat noir. </p>
+        <img src="https://www.serieously.com/app/uploads/2024/07/adrien-agreste-alias-chat-noir-dans-miraculous.jpg" alt="Photo d'Adrien / Chat Noir">
+    </div>
+
+    <!-- Présentation des personnages de la classe avec photo de classe -->
+   <div id="amis" class="section">
+    <h2>Les Amis de Marinette et Adrien</h2>
+
+    <h3>Alya Césaire</h3>
+    <p><strong>Rôle :</strong> Meilleure amie de Marinette</p>
+    <p><strong>Personnalité :</strong> Alya est passionnée, courageuse et déterminée. Elle est aussi très curieuse et adore enquêter sur Ladybug et Chat Noir.</p>
+    <p><strong>Particularité :</strong> Alya est la créatrice du <em>Ladyblog</em>, un site dédié à Ladybug, et elle se transforme en <strong>Rena Rouge</strong> (super-héroïne avec des pouvoirs de renard) lorsque Marinette lui confie le Miraculous du Renard.</p>
+
+    <h3>Nino Lahiffe</h3>
+    <p><strong>Rôle :</strong> Meilleur ami d’Adrien et petit ami d’Alya</p>
+    <p><strong>Personnalité :</strong> Sympathique et relax, Nino est DJ et très créatif. Il est toujours prêt à aider ses amis.</p>
+    <p><strong>Particularité :</strong> Il devient <strong>Carapace</strong> avec le Miraculous de la Tortue, avec lequel il peut créer des boucliers pour se défendre et protéger les autres.</p>
+
+    <h3>Chloé Bourgeois</h3>
+    <p><strong>Rôle :</strong> Camarade de classe de Marinette et Adrien</p>
+    <p><strong>Personnalité :</strong> Chloé est riche, arrogante, et capricieuse. Elle peut parfois être méchante avec Marinette, mais elle admire Ladybug.</p>
+    <p><strong>Particularité :</strong> Bien qu’elle ait souvent un comportement difficile, elle a eu plusieurs fois le Miraculous de l’Abeille, devenant alors <strong>Queen Bee</strong>.</p>
+
+    <h3>Kim (Kim Chiến Lê)</h3>
+    <p><strong>Rôle :</strong> Ami de Marinette et Adrien, et membre du club d'athlétisme</p>
+    <p><strong>Personnalité :</strong> Kim est extraverti et compétitif, toujours prêt à relever des défis sportifs.</p>
+    <p><strong>Particularité :</strong> Il a temporairement eu le Miraculous du Singe, devenant <strong>King Monkey</strong> avec des pouvoirs espiègles.</p>
+
+    <h3>Max Kanté</h3>
+    <p><strong>Rôle :</strong> Camarade de classe de Marinette, expert en technologie</p>
+    <p><strong>Personnalité :</strong> Très intelligent et calme, Max est doué en programmation et en jeux vidéo.</p>
+    <p><strong>Particularité :</strong> En tant que <strong>Pegasus</strong>, avec le Miraculous du Cheval, il a le pouvoir de téléportation.</p>
+
+    <h3>Rose Lavillant</h3>
+    <p><strong>Rôle :</strong> Amie joyeuse et optimiste</p>
+    <p><strong>Personnalité :</strong> Rose est douce, gentille, et toujours prête à encourager ses amis. Elle adore la musique et les couleurs vives.</p>
+    <p><strong>Particularité :</strong> Elle devient <strong>Pigella</strong> avec le Miraculous du Cochon, utilisant son pouvoir pour diffuser des rêves positifs.</p>
+
+    <h3>Juleka Couffaine</h3>
+    <p><strong>Rôle :</strong> Amie timide de Marinette</p>
+    <p><strong>Personnalité :</strong> Réservée et mystérieuse, elle aime la musique et les couleurs sombres.</p>
+    <p><strong>Particularité :</strong> Elle se transforme en <strong>Purple Tigress</strong> grâce au Miraculous du Tigre.</p>
+
+    <h3>Ivan Bruel et Mylène Haprèle</h3>
+    <p><strong>Ivan :</strong> Un garçon gentil avec une apparence intimidante, qui est aussi musicien.</p>
+    <p><strong>Mylène :</strong> Timide et douce, Mylène est la petite amie d’Ivan et adore l’art et la comédie.</p>
+    <p><strong>Particularité :</strong> Ivan devient <strong>Minotaurox</strong> (avec le Miraculous du Bœuf) et Mylène <strong>Polymouse</strong> (avec le Miraculous de la Souris), un duo complémentaire.</p>
+        <img src="https://i.pinimg.com/736x/b0/9e/16/b09e1663dce55575758edaf82af1c129.jpg" alt="Photo de la classe de Marinette et Adrien en fond">
+    </div>
+
+    <!-- Présentation du méchant : Le Papillon -->
+    <div id="mechant" class="section">
+        <h2>L'Antagoniste : Le Papillon</h2>
+        <p>Gabriel Agreste surnommé Le Papillon est l'antagoniste principal de la franchise franco-coréo-japonaise Miraculous : Les Aventures de Ladybug et Chat Noir. C'est l'ennemi juré de Ladybug et Chat Noir, tout en ignorant que ce dernier est son fils Adrien Agreste et il était aussi l'époux d'Émilie Agreste. Il était un styliste de mode célèbre à Paris et ailleurs qui avait créé et possèdait la marque de mode Gabriel.
+
+Il voulait les Miraculous de Ladybug et Chat Noir pour lui-même afin d'obtenir un pouvoir absolu et de remodeler la réalité pour réparer ses erreurs passées et celles de sa femme (Ladybug l'a appris dans Re-création (Le Dernier Jour - 2ème Partie)) Pour atteindre son objectif, il utilisait le super-pouvoir du Papillon : l'Akumatisation qui lui permettait de créer et de contrôler les akumas, auparavant des papillons réguliers, qui peuvent transformer des personnes normales avec des émotions négatives en super-vilains. </p>
+        <img src="https://i.pinimg.com/originals/71/22/aa/7122aa462c8b0cd023dd9d490be0eca6.jpg" alt="Photo du Papillon">
+    </div>
+
+    <!-- Résumé de tous les chapitres -->
+    <div id="resume-saisons" class="section">
+        <h2>Résumé des Saisons</h2>
+        <p>La série <em>Miraculous</em> est riche en rebondissements et suit la progression de Ladybug et Chat Noir dans leur rôle de héros...</p>
+        <ul>
+            <li><strong>Saison 1 :</strong> A Paris, Ladybug et Chat Noir surgissent à la moindre menace sur la capitale. Leur mission : capturer les akumas créé par Papillon qui transforment les parisiens en super-vilains dès qu'ils ressentent une émotion négative intense. Cependant, si Ladybug et Chat Noir font équipe pour protéger Paris, aucun ne connaît l'identité secrète de l'autre. Ainsi, Ladybug ignore que sous le masque de Chat Noir se trouve Adrien Agreste, le garçon dont elle est folle amoureuse. Et de son côté, Chat Noir, dont le cœur ne bat que pour Ladybug, ignore que la super héroïne est Marinette Dupain-Cheng, la fille maladroite mais originale de la classe. </li>
+	<img src="https://www.miraculousladybug.com/wp-content/uploads/2023/05/Season-1-Poster.webp" alt="photo saison 1">
+	<br>
+	<br>
+            <li><strong>Saison 2 :</strong> Au collège, Kagami, une jeune escrimeuse, attire l'attention d'Adrien, ce que remarque Marinette. Mais Marinette rencontre aussi un garçon qui attire son attention, Luka. Elle rencontre également le Gardien des Miraculous, Maître Fu, et découvre qu'il existe d'autres Miraculous. Grâce à cela, elle pourra ponctuellement demander de l'aide à de nouveaux héros de son choix lors de certaines missions particulièrement difficiles. Lorsqu'il découvre enfin que le Papillon a un plan terrible qu'il prépare depuis longtemps, Ladybug et Chat Noir font appel à de nouveaux héros pour le vaincre ! </li>
+	<img src="https://img.over-blog-kiwi.com/0/95/30/84/20170926/ob_dc1927_miraculous-saison2-poster-horizontal-v.PNG" alt="photo saison 2">
+	<br>
+	<br>
+            <li><strong>Saison 3 :</strong> Avec le temps, Marinette et Adrien ont fini par devenir des amis. Mais la collégienne découvre que déclarer ses sentiments à un ami n'est pas aussi simple, ce serait même presque le contraire ! Pour Ladybug et Chat Noir, malgré de nouveaux pouvoirs et des coéquipiers auxquels ils peuvent faire appel quand la situation le nécessite, la confrontation avec Papillon est de plus en plus musclée. Leur adversaire de toujours est lui aussi plus fort depuis qu'il peut faire appel à Mayura, une vilaine capable de créer des alliés aux akumatisés, les super-vilains. Plus de pouvoirs, plus d'action, plus de vilains et encore plus d'émotions !</li>
+	<img src="https://static.wikia.nocookie.net/lady-bug/images/4/4a/ML_S3_Poster.jpg/revision/latest?cb=20190203104536" alt="photo saison 3">
+	<br>
+	<br>
+	    <li><strong>Saison 4 :</strong> Après les événements de Miracle Queen, Papillon parvient à restaurer le Miraculous du Paon en utilisant la tablette de Maître Fu qu’il avait volée. En combinant désormais ce pouvoir à son Miraculous, il devient Papillombre, capable de créer des sentimonstres en soutien à ses super-vilains akumatisés. Dès le premier épisode, il utilise cette nouvelle capacité pour akumatiser Luka en Vérité. Cette approche se répète à huit autres reprises dans la saison, précisément dans les épisodes 8, 9, 10, 11, 13, 14, 23 et 26. Au fil de ses attaques contre Paris, Papillombre perfectionne également son pouvoir en développant des Mégakumas, des versions plus puissantes des akumas classiques, capables de briser les effets protecteurs des Magical Charms (des amulettes magiques qui repoussent les akumas).</li>
+	<br>
+
+<li>Pour Marinette et Adrien, les changements sont également profonds. Tous deux se sont éloignés en débutant chacun une nouvelle relation, Marinette avec Luka et Adrien avec Kagami. De plus, leurs identités secrètes, Ladybug et Chat Noir, sont moins complices, car Ladybug porte désormais la responsabilité de gardienne des Miraculous. Les nombreuses attaques de Papillombre les forcent à multiplier les mensonges, ce qui complique leurs relations amoureuses et entraîne des ruptures. Marinette, particulièrement touchée, sombre dans un état dépressif temporaire, mais elle trouve du réconfort auprès de sa meilleure amie Alya Césaire, à qui elle révèle son secret dans le troisième épisode. Alya devient un soutien essentiel, surtout pour la création des Magical Charms, ces bijoux protecteurs contre les akumas, et Ladybug finit par lui confier de façon permanente le Miraculous du Renard. Cette relation de confiance attise toutefois la jalousie de Chat Noir et suscite la curiosité de Papillombre. Pour assurer leur sécurité, Ladybug demande alors à Rena Rouge de devenir Rena Furtive, opérant en secret comme une espionne.</li>
+	<br>
+
+<li>Au cours de cette saison, l’équipe de super-héros s’agrandit. D’abord, on voit apparaître Vesperia, remplaçante de Queen Bee, qui est en fait Zoé, la demi-sœur de Chloé. Puis viennent Polymouse (Mylène) dans l’épisode 10, Pigella (Rose) et Tigresse Pourpre (Juleka) dans les épisodes 11 et 12 respectivement. Le groupe se complète à l’épisode 24 avec l’arrivée de Coq Courage (Marc), Minotaurox (Ivan), Traquemoiselle (Sabrina) et Caprikid (Nathaniel), bien que Bunnix reste absente. Avec ce grand nombre d’alliés, Chat Noir se sent mis de côté et envieux de la complicité entre Ladybug et Rena Rouge, ce qui le pousse à renoncer temporairement à son Miraculous. Cependant, les événements du dernier épisode lui rappellent son importance auprès de Ladybug.</li>
+	<br>
+
+<li>Dans cet épisode final, intitulé La dernière attaque de Papillombre, ce dernier invoque Risque, un super-vilain akumatisé dont le pouvoir incite tous les Parisiens, Marinette et Adrien inclus, à prendre des risques inconsidérés. Craignant les conséquences de cette influence sur Chat Noir, Ladybug décide de l'écarter de la bataille et confie le Miraculous du Chien à Adrien. Sans qu’elle le sache, c’est en réalité Félix, le cousin rusé d’Adrien, qui prend le Miraculous et utilise son pouvoir pour voler le yo-yo de Ladybug, contenant tous les Miraculous, qu’il échange ensuite contre le Miraculous du Paon. Ladybug, terriblement affectée par son erreur et d’avoir autant mis Chat Noir à l’écart, trouve du réconfort auprès de ce dernier, qui lui promet qu’ils récupéreront ensemble chaque Miraculous volé.</li>
+	<img src="https://static.wikia.nocookie.net/miraculousladybug/images/9/9e/EKUSj43WwAE09ar.jpg/revision/latest?cb=20200527135222&path-prefix=fr" alt="photo saison 4">
+	<br>
+	<br>
+	    <li><strong>Saison 5 :</strong> Lors de la même nuit où Ladybug a perdu les Miraculous, de nombreux événements se sont déroulés. D’abord, elle, Chat Noir, et Bunnix ont dû affronter Papillon, désormais appelé Monarque, à travers différentes époques. Une fois revenus à leur présent, Alix accepte la garde permanente du Miraculous du Lapin, le seul qu’ils ont pu récupérer du super-vilain. Pour protéger le continuum espace-temps, elle est contrainte de ne plus retourner dans son époque, ce qui conduit d’ailleurs à l'akumatisation de son frère dans l’épisode 8.
+Cette même nuit, Monarque prépare sa revanche. Il force les kwamis à lui donner des informations sur l’identité de leur gardienne, mais il s’agit d’un piège, et dans l’altercation, son bras est touché par le Cataclysme de Chat Noir. Son costume magique l’empêche d’être détruit immédiatement, mais il est gravement affecté.
+Dans Miraculous World Paris: Les Aventures de Toxinelle et Griffe Noire, des versions maléfiques de Ladybug et Chat Noir, appelées Toxinelle et Griffe Noire, apparaissent d’une autre dimension, à la poursuite de Hesperia, la version positive de lui-même. Nos héros réussissent à convaincre Toxinelle et Griffe Noire de changer de camp et d’affronter aux côtés d'Hesperia Suprême, une entité malveillante qui confère des Miraculous pour semer le chaos.</li>
+	<br>
+<li>Dans les jours suivants, Monarque se fait plus discret, ce qui permet à Marinette et Adrien de retrouver un peu de normalité au collège. Mais l’attaque d’Ikari Gozen, qui utilise le pouvoir du Miraculous de la Souris sans le porter, laisse Ladybug et Chat Noir soupçonner que leur ennemi a trouvé une nouvelle méthode. Gabriel, avec l’aide de Tomoe, transforme les Miraculous en bagues Alliance reliées à un réseau high-tech qui permet de transmettre les pouvoirs à distance. Les Parisiens, inconscients de cette surveillance, adoptent massivement ces bagues, mais ni Adrien ni Marinette n’en portent : l'un les trouve intrusives, et l'autre craint qu’elles soient utilisées par Monarque pour l’espionner.</li>
+	<br>
+<li>À partir de l’épisode 6, Ladybug commence à apprécier la valeur de Chat Noir et développe des sentiments pour lui. Adrien, quant à lui, se rapproche de Marinette, touché par le soutien qu’elle lui apporte face aux exigences de son père. Plus tard, lors d’un rendez-vous avec Chat Noir, Marinette perd espoir en l’amour, sentant qu’elle ne pourra jamais vivre une relation normale avec son identité de super-héroïne. Dans le double-épisode Le Choix des Kwamis, Tikki, convaincue que Marinette doit pouvoir vivre son amour pour Adrien, lui retire temporairement ses pouvoirs. Chat Noir fait de même, et les Miraculous de la Coccinelle et du Chat Noir sont confiés à Scarabella (Alya) et Blaqueminette (Zoé). Cependant, Monarque découvre rapidement leurs identités, forçant les kwamis à rendre les Miraculous à Marinette et Adrien.
+La relation entre Marinette et Adrien prend de l'ampleur, mais des obstacles demeurent. Un événement passé a laissé Marinette méfiante en amour, et la jalousie de Kagami, manipulée par Lila, complique les choses. Gabriel, souhaitant qu’Adrien soit avec une fille de leur statut social, impose de renouer avec Kagami et interdit la relation avec Marinette. Il nomme Kagami égérie de sa marque et prévoit même d’envoyer Adrien étudier à Londres.</li>
+	<br>
+<li>En fin d’année scolaire, Lila, désormais chef de classe par ruse et manipulation, falsifie des documents pour discréditer Marinette. Chloé, complice de Lila, pousse Sabrina à imiter l’écriture de Marinette, mais exaspérée d’être traitée comme une servante, Sabrina se rallie à Marinette. Ensemble, elles exposent les manigances de Lila et Chloé, entraînant leur expulsion, bien que Chloé tente de revenir grâce à l’influence de son père. On découvre que Lila cache une double identité sous le nom de Cerise et prétend avoir quitté le collège pour un tournage.
+Suite à ces événements, Mademoiselle Mendeleiev devient la nouvelle directrice du collège, tandis que Lila, ayant découvert la double identité de Gabriel, prépare sa vengeance pour lui dérober le Miraculous. Gabriel, en partenariat avec Tomoe, annonce son plan de l’Alliance Parfaite. Dans cette période, André Bourgeois démissionne de son poste de maire, et bien que mineure, Chloé prend le contrôle de la ville en déployant des robots policiers des industries Tsurugi, alimentés par la magie des Miraculous. Ladybug et Chat Noir mobilisent la population contre ce régime et encouragent Mlle Bustier à se présenter aux élections. Élue maire, Bustier transforme Paris en une ville écologique et sécurisée, mais Adrien, Kagami, et Chloé quittent Paris pour Londres avant le bal de fin d’année.
+La même nuit, Félix revient et, à travers une pièce de théâtre, explique à Marinette ses motivations en échangeant tous les Miraculous pour celui du Paon. Grâce à Kagami, il a découvert l'identité de Ladybug, et il espère qu'elle l’aidera à défaire Gabriel/Monarque afin de pouvoir vivre en paix.</li>
+	<br>
+<li>Dans Conformation (Le dernier jour - Partie 1), Gabriel s'akumatise en Psycauchemardeur et plonge le monde dans un cauchemar éveillé en propageant une poudre magique. Marinette, suivant son instinct, se rend au manoir d’Adrien et découvre les secrets de la famille Agreste avec l’aide d’une Nathalie repentante. Aidée par Ladydragon et les super-héros des épisodes Miraculous World New York et Shanghai, elle échappe aux civils transformés en Miraculisés par les nouvelles fonctionnalités des bagues Alliance. Plagg lui confie ensuite le Miraculous de Chat Noir, car Adrien hésite à utiliser son pouvoir dans cet état.
+Dans Re-création (Le dernier jour - Partie 2), après un intense combat où Ladybug, devenue Bug Noir, récupère peu à peu les Miraculous de Monarque, Gabriel réussit malgré tout à lui voler ses Miraculous et fait un ultime vœu. Convaincu par Marinette de respecter les dernières volontés d’Emilie, il choisit de soigner Nathalie, en échange de sa propre vie écourtée par le Cataclysme de Chat Noir.
+Dans Miraculous World Londres : Chronobug et les fantômes du passé, Marinette, seule dans la crypte, rencontre Bunnyx, qui lui annonce que les événements récents ont modifié le futur et que Ladybug n'existe plus. Quelqu’un a dérobé les Miraculous de la Création, de la Destruction, et de la Transmission. Bunnyx donne alors à Marinette deux versions des Miraculous pour devenir Chronobug et enquêter dans le passé afin de découvrir l’identité du mystérieux voleur.
+Deux mois plus tard, Adrien, revenu de Londres, organise une fête au manoir, comblé par la présence de ses amis et de sa famille. À ses yeux, Gabriel Agreste est mort en héros, mais seuls Marinette, Tomoe, Alya, Kagami, Félix et elle connaissent la vérité. Lila/Cerise le sait également, car elle a récupéré le Miraculous du Papillon dans les ruines de la crypte de Monarque. Pour éviter qu’elle ne devienne une menace, Ladybug restaure les Miraculous et les confie définitivement à leurs porteurs d'origine.</li>
+	<img src="https://photos.tf1.fr/1280/720/mlb_s5_final_poster_3840x2160_vf_nologo-21921d-c5c570-0@1x.jpg" alt="photo saison 5">
+	<br>
+	<br>
+	    <li><strong>Saison 6 :</strong> A suivre...</li>
+	 <img src="https://preview.redd.it/m5qn4uvy3vlb1.jpg?width=640&crop=smart&auto=webp&s=8f5550c5794d89c4d6af274d6ca630cc1cb3887d" alt="PHOTO DERNIER EPISODE">
+        </ul>
+    </div>
+
+    <!-- Présentation des bijoux magiques (les Miraculous) -->
+    <div id="miraculous" class="section">
+        <h2>Les Bijoux Magiques : Les Miraculous</h2>
+        <p>Les Miraculous sont une variété d'objets magiques  portés comme des bijoux, possédant la capacité de transformer leurs porteurs, avec l'aide des kwamis, en êtres surpuissants sur le thème des animaux. </p>
+        <img src="https://static.wikia.nocookie.net/miraculousladybug/images/6/6d/Touslesmiraculous.png/revision/latest?cb=20210411092702&path-prefix=fr" alt="Photo des bijoux magiques - Les Miraculous">
+    </div>
+
+</body>
+</html>
